@@ -91,6 +91,7 @@ footer {
     background-color: #fff;
     text-align: center;
 }}
+}
 
 #trending, #your, #curated, .trending, .playlists {
     display: grid;
